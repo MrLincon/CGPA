@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#101010</color>
+    <color name="colorPrimaryDark">#101010</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorText">#fff</color>
+    <color name="colorTextSecondary">#80FFFFFF</color>
+    <color name="colorCard">#292929</color>
+    <color name="colorIconTint">#fff</color>
+    <color name="colorBottomSheet">#202020</color>
+
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlue">#64B5F6</color>
+    <color name="colorRed">#E57373</color>
+    <color name="colorPink">#F06292</color>
+    <color name="colorPurple">#BA68C8</color>
+    <color name="colorOrange">#FF8A65</color>
+    <color name="colorViolate">#9575CD</color>
+    <color name="colorCyan">#4DD0E1</color>
+    <color name="colorYellow">#FFF176</color>
+    <color name="colorLightGreen">#AED581</color>
+    <color name="colorIndigo">#7986CB</color>
+    <color name="colorGreen">#4DB6AC</color>
+    <color name="colorAmber">#FFB74D</color>
+</resources>
