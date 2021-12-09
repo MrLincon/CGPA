@@ -1,7 +1,7 @@
 # CGPA Calclutor
 
 ## White-Space
-<img  src= "Logo.png">
+<img src= "Logo.png">
 ![CGPA (1)](https://user-images.githubusercontent.com/52606514/145366329-78cba2a5-fd31-4391-bc08-4081caa094a7.jpg)
 ![CGPA (2)](https://user-images.githubusercontent.com/52606514/145366334-76a47ddc-d05d-4885-8fd6-c34b01994824.jpg)
 ![CGPA (3)](https://user-images.githubusercontent.com/52606514/145366338-24796892-f5cd-465a-bdc1-9e4b9aadd80f.jpg)
