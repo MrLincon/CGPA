@@ -12,6 +12,7 @@ CGPA Calclutor is a simple application to calculate the CGPA of University stude
 - UI - XML
 - Language - Java
 - Database - None (Shared Preference)
+- Graphics - Adobe Illustrator
 - Version Support - Android 6 to Android 11
 
 
