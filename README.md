@@ -5,7 +5,7 @@
 <img  src= "Asset/CGPA (1).jpg" width= 200 height= 320> <img  src= "Asset/CGPA (2).jpg" width= 200 height= 320> <img  src= "Asset/CGPA (3).jpg" width= 200 height= 320> <img  src= "Asset/CGPA (4).jpg" width= 200 height= 320>
 
 ## About
-It is a simple application to calculate the CGPA of University students.
+CGPA Calclutor is a simple application to calculate the CGPA of University students.
 
 ## Tools
 
