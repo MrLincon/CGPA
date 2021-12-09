@@ -1,12 +1,10 @@
 # CGPA Calclutor
 
 ## White-Space
-<img src= "Logo.png">
-![CGPA (1)](https://user-images.githubusercontent.com/52606514/145366329-78cba2a5-fd31-4391-bc08-4081caa094a7.jpg)
-![CGPA (2)](https://user-images.githubusercontent.com/52606514/145366334-76a47ddc-d05d-4885-8fd6-c34b01994824.jpg)
-![CGPA (3)](https://user-images.githubusercontent.com/52606514/145366338-24796892-f5cd-465a-bdc1-9e4b9aadd80f.jpg)
-![CGPA (4)](https://user-images.githubusercontent.com/52606514/145366341-d00b9261-33d1-4697-afd6-06faa4393da4.jpg)
 
+<img  src= "Asset/Asset 5@4x.png" width= 200 height= 200>
+
+<img  src= "Asset/CGPA (1).jpg" width= 200 height= 320> <img  src= "Asset/CGPA (2).jpg" width= 200 height= 320> <img  src= "Asset/CGPA (3).jpg" width= 200 height= 320> <img  src= "Asset/CGPA (4).jpg" width= 200 height= 320>
 
 
 The application is live on Google Play Store.
